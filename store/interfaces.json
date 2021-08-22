@@ -1,0 +1,8 @@
+{
+  "whatsapp": {
+    "component": "whatsapp"
+  },
+  "loja": {
+    "component": "loja"
+  }
+}
