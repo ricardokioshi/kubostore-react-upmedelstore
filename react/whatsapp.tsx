@@ -1,5 +1,7 @@
 import React from 'react'
 
+/* -----Componente em react que redireciona para api do whatsapp----- */
+
 const whatsapp: StorefrontFunctionComponent = () => {
   return (
     <>

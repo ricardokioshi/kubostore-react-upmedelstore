@@ -1,5 +1,6 @@
 import React from 'react'
 
+/* -----Componente em react que redireciona para LOJA - UPMEDALSTORE----- */
 const loja: StorefrontFunctionComponent = () => {
   return (
     <>
